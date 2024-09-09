@@ -1,0 +1,43 @@
+[
+    {
+        "imagen":"imagenes/madera2.jpg",
+        "titulo":"Maderas",
+        "descripcion":"Maderas de todo tipo"
+    },
+    {
+        "imagen":"imagenes/metales.jpg",
+        "titulo":"Metales",
+        "descripcion":"Acero, Aleaciones y mas"
+    },
+    {
+        "imagen":"imagenes/tornillos.jpg",
+        "titulo":"Tornillos",
+        "descripcion":"Tornillos de todo tamaño"
+    },
+    {
+        "imagen":"imagenes/tuercas.jpg",
+        "titulo":"Tuercas",
+        "descripcion":"Tuercas para toda necesidad"
+    },
+    {
+        "imagen":"imagenes/manuales.jpg",
+        "titulo":"Herramientas Manuales",
+        "descripcion":"Martillos, Destornilladores y mas"
+    },
+    {
+        "imagen":"imagenes/portatiles.jpg",
+        "titulo":"Herramientas Portatiles",
+        "descripcion":"Taladros, Lijadoras, Tornos y mas"
+    },
+    {
+        "imagen":"imagenes/estacionarias.jpg",
+        "titulo":"Herramientas Estacionarias",
+        "descripcion":"Sierras, Cortadoras y mas"
+    },
+    {
+        "imagen":"imagenes/accesorios2.jpg",
+        "titulo":"Accesorios",
+        "descripcion":"Accesorios para todas tus herramientass"
+    }
+    
+]
